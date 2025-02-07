@@ -1,4 +1,4 @@
-# Egzaminas 2025-02-07
+# Egzaminas 2025-02-07 GO INTO THE MASTER BRANCH THE PORJECT IS INSIDE THERE
 
 Tutorial on how to run this project.
 
