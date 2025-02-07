@@ -17,6 +17,11 @@ Follow these steps to run the project locally:
 ```bash
  npm install
  ```
+1.2 OR run this code, either way they both should work
+```bash
+ npm i
+```
+
 2. If you run in issues with the dependecies run this code in the terminal:
 
 ```bash
