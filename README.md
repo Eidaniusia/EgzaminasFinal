@@ -13,12 +13,7 @@ Make sure you have the following installed on your machine:
 Follow these steps to run the project locally:
 
 ## Installation
-1. Clone the repository:
-```bash
- git clone https://github.com/yourusername/yourproject.git
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
  npm install
  ```
