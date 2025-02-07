@@ -1,6 +1,6 @@
 # Egzaminas 2025-02-07
 
-Tutorial on how to run this project.
+Tutorial on how to run this project, this project was created with MongoDB, Express.js, React, and Node.js.
 
 ## Prerequisites
 
