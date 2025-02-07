@@ -17,3 +17,8 @@ Follow these steps to run the project locally:
 ```bash
  npm install
  ```
+2. If you run in issues with the dependecies run this code in the terminal:
+```bash
+    npm audit fix
+    ```
+3.
